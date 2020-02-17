@@ -1,22 +1,30 @@
 # rush01
 
-descripción archivos:
+# descripción archivos:
 
 *** test.c ***
 
-
 contiene el main, y los prototipos a las demas funciones.
-
 
 *** techniques.c ***
 
+contiene varias funciones con tecnicas para resolver el problema
+
 *** clue4.c ***
+
+contiene la tecnica clue4
 
 *** clue1_3.c ***
 
+contiene las tecnicas clue1 y clue3
+
 *** checker.c ***
 
-descripción de las funciones:
+contiene las comprobaciones para saber si la matriz está bien rellenada.
+
+
+# descripción de las funciones:
+
 *** Clue4 ***
 
 Esta función se encarga de rellenar la fila con los valores de 1 a 4 si el parametro correspondiente es 4.
