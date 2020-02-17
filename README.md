@@ -1,6 +1,7 @@
 # rush01
 
 descripción archivos:
+
 *** test.c ***
 contiene el main, y los prototipos a las demas funciones.
 cleanmap genera un mapa de 4x4 vacía (llena de ceros)
